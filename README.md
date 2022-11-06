@@ -1,2 +1,3 @@
 # tokyoairbnb
 September 2022 Tokyo Airbnb Listings
+https://app.powerbi.com/view?r=eyJrIjoiYzhiY2VjOTctNWRmZC00MTA1LWI4M2YtODg2ODljM2I3YmVmIiwidCI6ImU0NWI5N2RmLWJkYjAtNDExMC05OTkzLWE5YjRhOGNjY2NhMiJ9&pageName=ReportSection
